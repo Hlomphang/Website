@@ -1,0 +1,31 @@
+body{
+  color :white;
+  background-color: black;
+  text-align : center
+  
+}
+.greetings{
+  text-align : right;
+  border: solid whitesmoke;
+  color : whitesmoke;
+  border-width: 5;
+  margin: auto;
+  text-align: center
+}
+img{
+  scale:5px;
+  width: 250;
+}
+#Hi{
+  text-emphasis: gold;
+  font-style: italic;
+  font-weight: bolder;
+  font : 5
+}
+
+#table{
+  text-align: left;
+  border: solid whitesmoke;
+  text-shadow: 5px 5px 4px ;
+  
+}
