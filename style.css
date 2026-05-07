@@ -12,6 +12,10 @@ body{
   margin: auto;
   text-align: center
 }
+img{
+  scale:5px;
+  width: 250;
+}
 #Hi{
   text-emphasis: gold;
   font-style: italic;
