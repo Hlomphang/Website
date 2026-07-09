@@ -1,0 +1,33 @@
+body{
+  background: #0A0A0A;
+  color : #7DD3FC;
+}
+h1{
+  text-align : center;
+  color : #38BDF8
+}
+.about{
+  text-align : center;
+  color : #93C5FD;
+  font: 50px;
+  font-weight: bold
+}
+.about img{
+  border-radius: 250px;
+  width :200px;
+  padding: 75px;
+}
+.growth_and skill_growth h1{
+  color: white;
+}
+.growth_and_skill_growth p{
+  color : #60A5FA;
+  border: #2563EB 3px solid;
+  padding: 10px;
+}
+.services{
+  border: 3px #2563EB solid;
+  padding-top: 15px;
+  margin: 10px;
+  border-radius: 10px
+}
