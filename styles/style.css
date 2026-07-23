@@ -9,7 +9,6 @@ h1{
 .about{
   text-align : center;
   color : #93C5FD;
-  font: 50px;
   font-weight: bold
 }
 .about img{
@@ -17,7 +16,10 @@ h1{
   width :200px;
   padding: 75px;
 }
-.growth_and skill_growth h1{
+.about video{
+  height: 200px
+}
+.growth_and_skill_growth h1{
   color: white;
 }
 .growth_and_skill_growth p{
@@ -29,5 +31,12 @@ h1{
   border: 3px #2563EB solid;
   padding-top: 15px;
   margin: 10px;
-  border-radius: 10px
+  border-radius: 10px;
+},
+footer{
+  padding: 30px;
+  border: brown solid 5px;
+  text-align : center;
+  background: #222;
+  color:white
 }
