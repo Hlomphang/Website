@@ -12,15 +12,12 @@ h1{
   font-weight: bold
 }
 .about img{
-  border-radius: 300px;
-  width :290px;
-  padding: 75px;
+  border-radius: 250px;
+  width :200px;
+  padding: 35px;
 }
 .about video{
   height: 200px
-}
-.growth_and_skill_growth h1{
-  color: white;
 }
 .growth_and_skill_growth p{
   color : #60A5FA;
@@ -32,11 +29,11 @@ h1{
   padding-top: 15px;
   margin: 10px;
   border-radius: 10px;
-},
+}
 footer{
   padding: 30px;
-  border: brown solid 5px;
+  border: white solid 5px;
   text-align : center;
   background: #222;
-  color:white
+  color:white;
 }
